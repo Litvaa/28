@@ -1,0 +1,14 @@
+/Users/arshevchenko/Projects/PointTest/PointTest/obj/Debug/netcoreapp2.0/PointTest.csprojResolveAssemblyReference.cache
+/Users/arshevchenko/Projects/PointTest/PointTest/obj/Debug/netcoreapp2.0/PointTest.csproj.CoreCompileInputs.cache
+/Users/arshevchenko/Projects/PointTest/PointTest/obj/Debug/netcoreapp2.0/PointTest.AssemblyInfoInputs.cache
+/Users/arshevchenko/Projects/PointTest/PointTest/obj/Debug/netcoreapp2.0/PointTest.AssemblyInfo.cs
+/Users/arshevchenko/Projects/PointTest/PointTest/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/arshevchenko/Projects/PointTest/PointTest/bin/Debug/netcoreapp2.0/xunit.runner.utility.netstandard15.dll
+/Users/arshevchenko/Projects/PointTest/PointTest/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netstandard15.dll
+/Users/arshevchenko/Projects/PointTest/PointTest/bin/Debug/netcoreapp2.0/PointTest.deps.json
+/Users/arshevchenko/Projects/PointTest/PointTest/bin/Debug/netcoreapp2.0/PointTest.runtimeconfig.json
+/Users/arshevchenko/Projects/PointTest/PointTest/bin/Debug/netcoreapp2.0/PointTest.runtimeconfig.dev.json
+/Users/arshevchenko/Projects/PointTest/PointTest/bin/Debug/netcoreapp2.0/PointTest.dll
+/Users/arshevchenko/Projects/PointTest/PointTest/bin/Debug/netcoreapp2.0/PointTest.pdb
+/Users/arshevchenko/Projects/PointTest/PointTest/obj/Debug/netcoreapp2.0/PointTest.dll
+/Users/arshevchenko/Projects/PointTest/PointTest/obj/Debug/netcoreapp2.0/PointTest.pdb
